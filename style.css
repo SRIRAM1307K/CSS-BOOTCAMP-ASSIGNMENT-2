@@ -1,0 +1,276 @@
+body{
+    width: 640px;
+    height: 600px;
+    border: 2px solid lightgray;
+    margin-left: 420px;
+    margin-top: 150px;
+    border-radius: 20px;
+
+}
+.homepage{
+    width: 600px;
+    position: relative;
+}
+.img1{
+    width: 100%;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    box-sizing: border-box;
+    border-radius: 20px;
+}
+.btn {
+    position: absolute;
+    top: 35px;
+    left: 35px;
+    border-radius: 5px;
+    border: none;
+    background-color: gray;
+    color: lightgray;
+    font-weight: 400;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    justify-content: center;
+
+}
+.btn2{
+    position: absolute;
+    right: 5px;
+    top: 303px;
+    padding: 5px;
+    border-radius: 5px;
+    border: none;
+    font-weight: 500;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: large;
+    color: black;
+}
+.homepage h3{
+    position: absolute;
+    left: 20px;
+    top: 291px;
+    border: 2px solid blue;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #fff;
+    width: 200px;
+    background-color: blue;
+    font-weight: normal;
+    text-align: center;
+}
+.homepage h1{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-left: 25px;
+    font-weight: light;
+    font-size: 30px;
+}
+.homepage h2{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-left: 25px;
+    color: gray;
+    font-weight: normal;
+    margin-top: 0px;
+}
+hr{
+    margin-top: 30px;
+}
+.button{
+    width: 108px;
+    height: 42px;
+    border: 2px solid teal;
+    position: relative;
+    top: 20px;
+    left: 25px;
+    border-radius: 5px;
+    background-color: teal;
+}
+.btn3{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    position: absolute;
+    top: 2px;
+    left: 4px;
+    background-color: rgb(254, 185, 100);
+    width: 100px;
+    border: none;
+    border-radius: 5px;
+    
+}
+
+.button h6{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #fff;
+    font-size: 23px;
+    position: absolute;
+    left: 7px;
+    top: -37px;
+    font-weight: 300;
+}
+.para h2{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    position: absolute;
+    left: 575px;
+    top: 650px;
+    color: gray;
+    font-weight: normal;
+    font-size: x-large;
+}
+.explore{
+    width: 640px;
+    height: 600px;
+    border: 2px solid lightgray;
+    margin-left: 0px;
+    margin-top: 150px;
+    border: none;
+    position: relative;
+}
+.bali {
+    width: 100%;
+    border-radius: 20px;
+}
+.explore h2{
+    position: absolute;
+    top: 165px;
+    left: 100px;
+    color: #fff;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: xx-large;
+}
+.explore p{
+    position: absolute;
+    top: 230px;
+    text-align: center;
+    left: 25px;
+    color: #fff;
+
+}
+.btn4{
+    position: absolute;
+    top: 320px;
+    left: 240px;
+    width: 120px;
+    padding: 12px;
+    border-radius: 40px;
+    border: none;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    cursor: pointer;
+
+}
+.btn4:hover{
+    background-color: black;
+    color: #fff;
+}
+.zomato{
+    width: 750px;
+    height: 300px;
+    margin-left: -50px;
+    margin-top: -100px;
+    border: 2px solid red;
+    background-size: cover;
+    border: none;
+}
+.food{
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    height: 300px;
+}
+.zomato{
+    position: relative;
+
+}
+.zomato h2{
+    font-family: 'metropolis-regular-italic', sans-serif;
+    color: white;
+    position: absolute;
+    left: 245px;
+    top: 17px;
+    font-size: 65px;
+    font-weight: bolder;
+}
+.zomato h3{
+    font-family: system-ui, cursive ;
+    color: #fff;
+    position: absolute;
+    left: 175px;
+    top: 125px;
+}
+.zomato input {
+    position: absolute;
+    margin-top: 200px;
+    left: 170px;
+    width: 400px;
+    height: 30px;
+    border: 2px solid red ;
+    border: none;
+    border-radius: 8px;
+}
+.zomato input:hover{
+    background-color: aqua;
+    color: gray;
+}
+.zomato h6{
+    position: absolute;
+    margin-top: -95px;
+    margin-left: 365px;
+    color: gray;
+    font-family: system-ui, cursive;
+}
+.icon .fa-solid{
+    position: absolute;
+    margin-top: -92px;
+    margin-left: 130px;
+}
+.icon1 .fa-sharp{
+    position: absolute;
+    margin-top: -92px;
+    margin-left: 250px;
+}
+.icon2 .fa-solid{
+    position: absolute;
+    margin-top: -90px;
+    margin-left: 250px;
+}
+.icon3 .fa-solid{
+    position: absolute;
+    margin-top: -91px;
+    margin-left: 285px;
+}
+.profile{
+    width: 540px;
+    height: 320px;
+    border: 2px solid gray;
+    margin-left: 40px;
+    margin-top: 100px;
+    position: relative;
+    border-radius: 15px;
+}
+.mountain{
+    width:100%;
+    height: 130px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    background-size: cover;
+}
+.me{
+    height: 130px;
+    width: 130px;
+    display: flex;
+    border-radius: 50%;
+    position:absolute;
+    left: 190px;
+    top: 60px;
+    border: 5px solid #fff;
+}
+.profile h1{
+    font-family: sans-serif;
+    position: absolute;
+    top: 190px;
+    left: 180px;
+}
+.profile h2{
+    font-family: sans-serif;
+    position: absolute;
+    top: 240px;
+    left: 150px;
+    color: gray;
+}
